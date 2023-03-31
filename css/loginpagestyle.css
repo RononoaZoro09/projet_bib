@@ -10,6 +10,7 @@ body{
 img{
     position: absolute;
     transform: translateY(-70px);
+    animation: show linear 1s;
 }
 
 .logoname{
@@ -19,6 +20,7 @@ img{
     font-family: 'Gill Sans MT';
     margin-top: 230px;
     margin-left: 110px;
+    animation: show linear 1s;
 }
 
 .intro{
@@ -28,6 +30,7 @@ img{
     font-size: 50px;
     font-family: 'Gill Sans MT';
     margin-left: 50px;
+    animation: show linear 1s;
 }
 
 .intro span{
