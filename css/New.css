@@ -441,7 +441,7 @@ img{
 }
 
 
-/*errors: these errors occur when the user doesn't fill the whole page inputs, else their opacity would be simply 0*/
+/*errors: these errors occur when the user doesn't fill the whole page inputs, else their display would be 'none'*/
 
 .errorfname{
     position: absolute;
